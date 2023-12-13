@@ -1,0 +1,40 @@
+.maincontainer {
+  border: 2px solid black;
+  height: 800px;
+  width:1360px;
+  background-color:white;
+}
+.box{
+  background-color: rgb(184, 198, 211);
+  border: 2px solid white;
+  border-radius: 52px;
+  height: 600px;
+  width: 30%;
+  float: left;
+  margin: 5px;}
+
+.container1 {
+   margin-left: 50px;
+}
+.container2 {
+ 
+}
+.container3 {
+ 
+}
+nav{
+    
+}
+h1{
+  padding: 12px;  
+  margin: 3px;
+}
+img{
+    border-radius: 100px;
+ margin-top: 72px;
+ margin-left: 99px;
+}
+p{
+    margin: 25px;
+    text-align: center;
+}
